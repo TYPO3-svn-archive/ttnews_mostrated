@@ -1,0 +1,6 @@
+# cat=tx_ttnewsmostrated; type=string; label=Rating value:Minimum rating value (inclusive) to show rated items
+tx_ttnewsmostrated.ratingValue = 0
+# cat=tx_ttnewsmostrated; type=int+; label=Rating number:Minimum number of ratings (inclusive) to show rated items
+tx_ttnewsmostrated.ratingNumber = 0
+# cat=tx_ttnewsmostrated; type=options[Number of ratings=0,Rating value=1]; label=Order by (always descending)
+tx_ttnewsmostrated.orderBy = 0

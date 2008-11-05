@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'ttnews_mostrated'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_news.tx_ttnewsmostrated_ratingval">Ratings value</label>
+			<label index="ttnews_flexform.most_rated">Most rated list</label>
+		</languageKey>
+	</data>
+</T3locallang>

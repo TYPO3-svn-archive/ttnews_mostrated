@@ -1,0 +1,3 @@
+plugin.tt_news.tx_ttnewsmostrated_ratingValue = {$tx_ttnewsmostrated.ratingValue}
+plugin.tt_news.tx_ttnewsmostrated_ratingNumber = {$tx_ttnewsmostrated.ratingNumber}
+plugin.tt_news.tx_ttnewsmostrated_orderBy = {$tx_ttnewsmostrated.orderBy}
